@@ -73,7 +73,7 @@ body {
     width: 96%;
     margin: 0 auto;
     gap: 1.8rem;
-    grid-template-columns: 14rem auto 23rem;
+    grid-template-columns: 13rem auto 23rem;
 }
 
 a {
@@ -544,10 +544,9 @@ main .recent-orders a{
 
 
 /*--------------- MEDIA QUERIES---------------------*/
-
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1024px) {
     .container {
-        width: 94%;
+        width: 90%;
         grid-template-columns: 7rem auto 23rem
     }
     aside .logo h2{
