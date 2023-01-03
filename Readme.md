@@ -1,6 +1,8 @@
 # Interface administrativa para lojas com responsividade e tema escuro.
 
-🇧🇷
+![admin area](https://user-images.githubusercontent.com/26524921/210456278-251a6fe5-f7f7-4bdf-b0a9-fe1675e3b26b.png)
+
+
 ## Como visualizar o projeto?
 Através do link https://jonathancosta746.github.io/Loja-Interface-Administrador/
 
