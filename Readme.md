@@ -1,6 +1,6 @@
 # Interface administrativa para lojas com responsividade e tema escuro.
 
-![admin area](https://user-images.githubusercontent.com/26524921/210456278-251a6fe5-f7f7-4bdf-b0a9-fe1675e3b26b.png)
+![admin area](https://user-images.githubusercontent.com/26524921/210614766-4f827e14-1ab4-494b-90fe-fbc4ebdc17b1.png)
 
 
 ## Como visualizar o projeto?
